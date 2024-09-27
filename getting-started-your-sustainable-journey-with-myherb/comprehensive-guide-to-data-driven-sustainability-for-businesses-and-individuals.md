@@ -3,7 +3,7 @@ description: >-
   Welcome to our complete introduction and guide on embracing a data-driven
   approach to sustainability.
 cover: >-
-  https://images.unsplash.com/photo-1725576415790-a5b4009a7952?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3Mjc0MzUwMTB8&ixlib=rb-4.0.3&q=85
+  https://images.unsplash.com/photo-1586623108095-fa71e9a2cfd6?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHx0cmF2ZWwlMjBncmFpZW50fGVufDB8fHx8MTcyNzQzNjA4Nnww&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
