@@ -19,7 +19,8 @@
 
 ## Collaborating
 
-* [🤝 How we Work Together](collaborating/how-we-work-together.md)
+* [🤝 How we Work Together](collaborating/how-we-work-together/README.md)
+  * [Unleashing the Power of AI with myHerb’s Innovative Partners](collaborating/how-we-work-together/unleashing-the-power-of-ai-with-myherbs-innovative-partners.md)
 * [📅 Meetings](collaborating/meetings.md)
 
 ## Policies
