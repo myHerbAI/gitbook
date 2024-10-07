@@ -3,8 +3,22 @@ description: >-
   This article delves into the importance of sustainable business practices,
   emphasizing integrating environmental and social impact into business
   strategies.
-cover: ../../.gitbook/assets/IA-chatbot-Dante-jpg.webp
-coverY: 0
+cover: ../../.gitbook/assets/Review-Header-3440x1440-EN.png
+coverY: -28.68679245283019
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Sustainability in Business: Strategies for Environmental and Social Impact

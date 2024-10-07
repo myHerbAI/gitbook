@@ -30,5 +30,5 @@
 
 ## Learning
 
-* [Introduction to Sustainability Session Objectives:](learning/introduction-to-sustainability-session-objectives/README.md)
+* [Introduction to Sustainability Session Objectives:](learning/introduction-to-sustainability-session-objectives.md)
   * [Sustainability in Business: Strategies for Environmental and Social Impact](learning/introduction-to-sustainability-session-objectives/sustainability-in-business-strategies-for-environmental-and-social-impact.md)
