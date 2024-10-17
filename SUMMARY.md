@@ -9,7 +9,7 @@
 
 * [🚀 Vision, Mission & Focus: On-Click One-Tree](about-us/vision-mission-and-focus-on-click-one-tree/README.md)
   * [myHerb initiative aims to guide businesses towards sustainability](about-us/vision-mission-and-focus-on-click-one-tree/myherb-initiative-aims-to-guide-businesses-towards-sustainability.md)
-  * [Mission](about-us/vision-mission-and-focus-on-click-one-tree/mission.md)
+  * [Mission: Sustainability Guidance Services](about-us/vision-mission-and-focus-on-click-one-tree/mission-sustainability-guidance-services.md)
   * [Focus](about-us/vision-mission-and-focus-on-click-one-tree/focus.md)
 * [💖 Values](about-us/values.md)
 
