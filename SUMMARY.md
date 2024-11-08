@@ -32,4 +32,4 @@
   * [myHerb initiative aims to guide businesses towards sustainability](about-us/vision-mission-and-focus-on-click-one-tree/myherb-initiative-aims-to-guide-businesses-towards-sustainability.md)
   * [Mission: Sustainability Guidance Services](about-us/vision-mission-and-focus-on-click-one-tree/mission-sustainability-guidance-services.md)
   * [Focus](about-us/vision-mission-and-focus-on-click-one-tree/focus.md)
-* [💖 Values](about-us/values.md)
+* [Brand Voice for myHerb](about-us/brand-voice-for-myherb.md)
