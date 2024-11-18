@@ -28,8 +28,8 @@
 
 ## About us
 
+* [Brand Voice of myHerb.co.il: A Comprehensive Exploration](about-us/brand-voice-of-myherb.co.il-a-comprehensive-exploration.md)
 * [🚀 Vision, Mission & Focus: On-Click One-Tree](about-us/vision-mission-and-focus-on-click-one-tree/README.md)
   * [myHerb initiative aims to guide businesses towards sustainability](about-us/vision-mission-and-focus-on-click-one-tree/myherb-initiative-aims-to-guide-businesses-towards-sustainability.md)
   * [Mission: Sustainability Guidance Services](about-us/vision-mission-and-focus-on-click-one-tree/mission-sustainability-guidance-services.md)
   * [Focus](about-us/vision-mission-and-focus-on-click-one-tree/focus.md)
-* [Brand Voice for myHerb](about-us/brand-voice-for-myherb.md)
