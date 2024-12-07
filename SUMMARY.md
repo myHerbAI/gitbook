@@ -22,6 +22,7 @@
 
 * [MISSION & GOALS](mission-and-goals/README.md)
   * [Expose Manipulative Entities and Protect Your Rights](mission-and-goals/expose-manipulative-entities-and-protect-your-rights.md)
+  * [Educational Resources on Recognizing and Dealing with Manipulation and Deceit](mission-and-goals/educational-resources-on-recognizing-and-dealing-with-manipulation-and-deceit.md)
 
 ## Team
 
