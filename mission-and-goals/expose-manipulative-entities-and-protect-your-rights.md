@@ -1,5 +1,6 @@
 ---
 description: Welcome to a platform where your voice matters and the truth prevails.
+icon: arrows-to-circle
 cover: ../.gitbook/assets/Designer - 2024-10-29T072319.170.jpeg
 coverY: -86
 ---
