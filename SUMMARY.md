@@ -18,6 +18,11 @@
   * [Tracking & Measuring Sustainability](collaborating/how-we-work-together/tracking-and-measuring-sustainability.md)
 * [📅 Meetings](collaborating/meetings.md)
 
+***
+
+* [MISSION & GOALS](mission-and-goals/README.md)
+  * [Expose Manipulative Entities and Protect Your Rights](mission-and-goals/expose-manipulative-entities-and-protect-your-rights.md)
+
 ## Team
 
 * [👋 Meet the Team!](team/meet-the-team.md)
