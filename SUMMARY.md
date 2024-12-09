@@ -4,7 +4,6 @@
   * [Comprehensive Guide to Data-Driven Sustainability for Businesses and Individuals](getting-started-your-sustainable-journey-with-myherb/comprehensive-guide-to-data-driven-sustainability-for-businesses-and-individuals.md)
 * [👋 Welcome to myHerb BookSpace!](welcome-to-myherb-bookspace/README.md)
   * [Transform Your Business with HubSpot and Impact.com PXA](welcome-to-myherb-bookspace/transform-your-business-with-hubspot-and-impact.com-pxa.md)
-* [Microsoft & Sustainability](microsoft-and-sustainability.md)
 
 ## Learning
 
@@ -16,13 +15,14 @@
 * [🤝 How we Work Together](collaborating/how-we-work-together/README.md)
   * [Unleashing the Power of AI with myHerb’s Innovative Partners](collaborating/how-we-work-together/unleashing-the-power-of-ai-with-myherbs-innovative-partners.md)
   * [Tracking & Measuring Sustainability](collaborating/how-we-work-together/tracking-and-measuring-sustainability.md)
-* [📅 Meetings](collaborating/meetings.md)
+* [Microsoft & Sustainability](collaborating/microsoft-and-sustainability.md)
 
 ***
 
 * [MISSION & GOALS](mission-and-goals/README.md)
   * [Expose Manipulative Entities and Protect Your Rights](mission-and-goals/expose-manipulative-entities-and-protect-your-rights.md)
   * [Educational Resources on Recognizing and Dealing with Manipulation and Deceit](mission-and-goals/educational-resources-on-recognizing-and-dealing-with-manipulation-and-deceit.md)
+* [📅 Meetings](meetings.md)
 
 ## Team
 
