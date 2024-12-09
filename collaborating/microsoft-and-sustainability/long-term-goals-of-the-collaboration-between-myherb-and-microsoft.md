@@ -3,11 +3,12 @@ description: >-
   The long-term goals of the collaboration between myHerb and Microsoft are
   centered around creating a sustainable and eco-friendly future through
   innovative technology and strategic initiatives.
+icon: square-chevron-right
 cover: ../../.gitbook/assets/Designer.jpeg
 coverY: 169
 ---
 
-# The long-term goals of the collaboration between myHerb and Mic
+# Long-term goals of the collaboration between myHerb and Microsoft
 
 #### Here are some of the key objectives:
 
