@@ -16,6 +16,7 @@
   * [Unleashing the Power of AI with myHerb’s Innovative Partners](collaborating/how-we-work-together/unleashing-the-power-of-ai-with-myherbs-innovative-partners.md)
   * [Tracking & Measuring Sustainability](collaborating/how-we-work-together/tracking-and-measuring-sustainability.md)
 * [Microsoft & Sustainability](microsoft-and-sustainability.md)
+* [myHerb and Microsoft: A Partnership for a Sustainable Future](collaborating/myherb-and-microsoft-a-partnership-for-a-sustainable-future.md)
 
 ***
 
