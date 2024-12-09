@@ -18,6 +18,8 @@
 * [Microsoft & Sustainability](collaborating/microsoft-and-sustainability/README.md)
   * [myHerb and Microsoft: A Partnership for a Sustainable Future](collaborating/microsoft-and-sustainability/myherb-and-microsoft-a-partnership-for-a-sustainable-future.md)
   * [Long-term goals of the collaboration between myHerb and Microsoft](collaborating/microsoft-and-sustainability/long-term-goals-of-the-collaboration-between-myherb-and-microsoft.md)
+* [About myHerb Partners Network](collaborating/about-myherb-partners-network/README.md)
+  * [Benefits of Joining the myHerb Partners Network](collaborating/about-myherb-partners-network/benefits-of-joining-the-myherb-partners-network.md)
 
 ***
 
