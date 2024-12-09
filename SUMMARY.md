@@ -17,6 +17,7 @@
   * [Tracking & Measuring Sustainability](collaborating/how-we-work-together/tracking-and-measuring-sustainability.md)
 * [Microsoft & Sustainability](collaborating/microsoft-and-sustainability/README.md)
   * [myHerb and Microsoft: A Partnership for a Sustainable Future](collaborating/microsoft-and-sustainability/myherb-and-microsoft-a-partnership-for-a-sustainable-future.md)
+  * [The long-term goals of the collaboration between myHerb and Mic](collaborating/microsoft-and-sustainability/the-long-term-goals-of-the-collaboration-between-myherb-and-mic.md)
 
 ***
 

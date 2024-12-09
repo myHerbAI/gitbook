@@ -1,5 +1,5 @@
 ---
-icon: microsoft
+icon: square-chevron-right
 description: >-
   The collaboration between myHerb and Microsoft exemplifies how technology and
   sustainability can intersect to create meaningful environmental impact.
