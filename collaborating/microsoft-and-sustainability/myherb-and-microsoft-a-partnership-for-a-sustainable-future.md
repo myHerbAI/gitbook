@@ -1,9 +1,9 @@
 ---
+icon: microsoft
 description: >-
   The collaboration between myHerb and Microsoft exemplifies how technology and
   sustainability can intersect to create meaningful environmental impact.
-icon: microsoft
-cover: ../.gitbook/assets/Designer - 2024-10-29T072354.160.jpeg
+cover: ../../.gitbook/assets/Designer - 2024-10-29T072354.160.jpeg
 coverY: 0
 ---
 
