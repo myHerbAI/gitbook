@@ -15,14 +15,14 @@
 * [🤝 How we Work Together](collaborating/how-we-work-together/README.md)
   * [Unleashing the Power of AI with myHerb’s Innovative Partners](collaborating/how-we-work-together/unleashing-the-power-of-ai-with-myherbs-innovative-partners.md)
   * [Tracking & Measuring Sustainability](collaborating/how-we-work-together/tracking-and-measuring-sustainability.md)
-* [Microsoft & Sustainability](collaborating/microsoft-and-sustainability.md)
+* [Microsoft & Sustainability](microsoft-and-sustainability.md)
 
 ***
 
 * [MISSION & GOALS](mission-and-goals/README.md)
   * [Expose Manipulative Entities and Protect Your Rights](mission-and-goals/expose-manipulative-entities-and-protect-your-rights.md)
   * [Educational Resources on Recognizing and Dealing with Manipulation and Deceit](mission-and-goals/educational-resources-on-recognizing-and-dealing-with-manipulation-and-deceit.md)
-* [📅 Meetings](meetings.md)
+* [📅 Meetings](collaborating/meetings.md)
 
 ## Team
 
