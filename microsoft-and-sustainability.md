@@ -1,5 +1,9 @@
 ---
 description: 'Microsoft and Sustainability: Pioneering a Greener Future.'
+icon: windows
+cover: >-
+  https://images.unsplash.com/photo-1602763288580-927cfda37a72?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxtaWNyb3NvZnR8ZW58MHx8fHwxNzMzNzM5NjQ1fDA&ixlib=rb-4.0.3&q=85
+coverY: 234
 layout: landing
 ---
 
