@@ -1,9 +1,11 @@
 ---
+icon: file-lines
 description: >-
   In an exciting collaboration, myHerb has joined forces with JetBrains as a
   valued vendor, bringing a unique blend of sustainability and innovation to the
   tech giant’s ecosystem.
-icon: file-lines
+cover: ../.gitbook/assets/Designer (54).jpeg
+coverY: 0
 ---
 
 # myHerb as a Vendor at JetBrains
