@@ -13,7 +13,7 @@
 
 ## Collaborating
 
-* [🤝 How we Work Together](collaborating/how-we-work-together/README.md)
+* [How we Work Together](collaborating/how-we-work-together/README.md)
   * [Unleashing the Power of AI with myHerb’s Innovative Partners](collaborating/how-we-work-together/unleashing-the-power-of-ai-with-myherbs-innovative-partners.md)
   * [Tracking & Measuring Sustainability](collaborating/how-we-work-together/tracking-and-measuring-sustainability.md)
 * [Elevating Sustainability as an Atlassian Marketplace Partner](collaborating/elevating-sustainability-as-an-atlassian-marketplace-partner.md)

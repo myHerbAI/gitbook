@@ -1,4 +1,8 @@
-# 🤝 How we Work Together
+---
+icon: lightbulb-exclamation-on
+---
+
+# How we Work Together
 
 Being a remote team means that team members are either working from home or from a co-working space.
 

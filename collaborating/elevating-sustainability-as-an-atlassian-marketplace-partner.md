@@ -1,8 +1,8 @@
 ---
+icon: file-lines
 description: >-
   myHerb has proudly joined the Atlassian Marketplace as a partner in a
   significant stride toward integrating sustainability with technology.
-icon: gitbook
 cover: ../.gitbook/assets/Designer (68).jpeg
 coverY: 180
 ---
