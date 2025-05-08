@@ -1,13 +1,26 @@
 ---
+icon: ballot-check
 cover: ../.gitbook/assets/Designer (66).jpeg
-coverY: 0
+coverY: 165.8565737051793
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Sustainability Implementation Framework
 
-Here’s a more **detailed breakdown** of sustainability strategies, categorized into distinct segments:
-
-#### **1️⃣ Circular Economy & Waste Reduction**
+## **1️⃣ Circular Economy & Waste Reduction**
 
 | **Topic**                       | **Checklist Items**                                                                                                                                                                                    |
 | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -15,7 +28,7 @@ Here’s a more **detailed breakdown** of sustainability strategies, categorized
 | **Zero-Waste Strategies**       | <p>✔ Reduce single-use plastics.<br>✔ Implement composting and food waste reduction programs.<br>✔ Promote secondhand and refurbished products.</p>                                                    |
 | **Sustainable Supply Chains**   | <p>✔ Source from ethical suppliers.<br>✔ Prioritize recyclable and biodegradable materials.<br>✔ Partner with businesses committed to fair trade.</p>                                                  |
 
-#### **2️⃣ Carbon Footprint & Energy Efficiency**
+## **2️⃣ Carbon Footprint & Energy Efficiency**
 
 | **Topic**                         | **Checklist Items**                                                                                                                                                                       |
 | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -23,7 +36,7 @@ Here’s a more **detailed breakdown** of sustainability strategies, categorized
 | **Energy Optimization**           | <p>✔ Upgrade to energy-efficient appliances.<br>✔ Utilize renewable power sources like solar or wind.<br>✔ Monitor energy usage via smart sensors.</p>                                    |
 | **Transportation Sustainability** | <p>✔ Transition to electric vehicles.<br>✔ Promote public transit and shared mobility.<br>✔ Reduce aviation carbon footprint where possible.</p>                                          |
 
-#### **3️⃣ Renewable Energy & Climate Solutions**
+## **3️⃣ Renewable Energy & Climate Solutions**
 
 | **Topic**                          | **Checklist Items**                                                                                                                                                                  |
 | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -31,7 +44,7 @@ Here’s a more **detailed breakdown** of sustainability strategies, categorized
 | **Hydropower & Geothermal Energy** | <p>✔ Explore hydro and geothermal solutions for long-term sustainability.<br>✔ Integrate smart grid technology for efficiency.<br>✔ Store renewable energy with battery systems.</p> |
 | **Grid Integration & Storage**     | <p>✔ Invest in battery storage technology.<br>✔ Reduce dependency on fossil fuels.<br>✔ Optimize grid efficiency with AI-powered monitoring.</p>                                     |
 
-#### **4️⃣ AI for Sustainability & Tech Innovations**
+## **4️⃣ AI for Sustainability & Tech Innovations**
 
 | **Topic**                           | **Checklist Items**                                                                                                                                                    |
 | ----------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
