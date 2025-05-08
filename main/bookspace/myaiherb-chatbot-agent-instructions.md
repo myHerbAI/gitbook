@@ -4,7 +4,7 @@ description: >-
   Approach: Regularly update AI with myHerb's latest sustainability goals,
   projects, and partnerships
 icon: comments
-cover: ../.gitbook/assets/Designer (15).jpeg
+cover: ../../.gitbook/assets/Designer (15).jpeg
 coverY: 0
 ---
 
@@ -16,7 +16,7 @@ coverY: 0
 
 The myAIHerb Chatbot is an innovative AI-powered service designed to assist users in their journey toward a sustainable lifestyle. It provides a comprehensive guide by providing resources, tools, and expert advice on various sustainability-related matters.
 
-<figure><img src="../.gitbook/assets/Dante-AI-myAIHerb.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Dante-AI-myAIHerb.png" alt=""><figcaption></figcaption></figure>
 
 ### Objectives
 

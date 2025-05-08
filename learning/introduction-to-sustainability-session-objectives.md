@@ -1,5 +1,6 @@
 ---
 description: 'Sustainability Learning Session for Beginners:'
+icon: file-lines
 cover: >-
   https://images.unsplash.com/photo-1494809610410-160faaed4de0?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHxsZWFybnxlbnwwfHx8fDE3Mjc0MzU5MTh8MA&ixlib=rb-4.0.3&q=85
 coverY: 151
