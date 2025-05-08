@@ -1,8 +1,8 @@
 # Table of contents
 
-* [🍀 Getting Started: Your Sustainable Journey with myHerb](README.md)
-  * [myAIHerb Chatbot Agent Instructions](getting-started-your-sustainable-journey-with-myherb/myaiherb-chatbot-agent-instructions.md)
-  * [Comprehensive Guide to Data-Driven Sustainability for Businesses and Individuals](getting-started-your-sustainable-journey-with-myherb/comprehensive-guide-to-data-driven-sustainability-for-businesses-and-individuals.md)
+* [Docs & Knowledge Base Vault](README.md)
+  * [myAIHerb Chatbot Agent Instructions](bookspace/myaiherb-chatbot-agent-instructions.md)
+  * [Comprehensive Guide to Data-Driven Sustainability for Businesses and Individuals](bookspace/comprehensive-guide-to-data-driven-sustainability-for-businesses-and-individuals.md)
 * [👋 Welcome to myHerb BookSpace!](welcome-to-myherb-bookspace/README.md)
   * [myHerb Onboarding Guide](welcome-to-myherb-bookspace/myherb-onboarding-guide.md)
   * [Transform Your Business with HubSpot and Impact.com PXA](welcome-to-myherb-bookspace/transform-your-business-with-hubspot-and-impact.com-pxa.md)
