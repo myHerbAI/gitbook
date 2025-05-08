@@ -3,20 +3,20 @@
 ## Main Section <a href="#main" id="main"></a>
 
 * [Docs & Knowledge Base Vault](README.md)
-  * [myAIHerb Chatbot Agent Instructions](main/bookspace/myaiherb-chatbot-agent-instructions.md)
-  * [Comprehensive Guide to Data-Driven Sustainability for Businesses and Individuals](main/bookspace/comprehensive-guide-to-data-driven-sustainability-for-businesses-and-individuals.md)
+  * [myAIHerb Chatbot Agent Instructions](bookspace/myaiherb-chatbot-agent-instructions.md)
+  * [Comprehensive Guide to Data-Driven Sustainability for Businesses and Individuals](bookspace/comprehensive-guide-to-data-driven-sustainability-for-businesses-and-individuals.md)
 
 ***
 
-* [👋 Welcome to myHerb BookSpace!](welcome-to-myherb-bookspace.md)
+* [👋 Welcome to myHerb BookSpace!](welcome-to-myherb-bookspace/README.md)
 
 ## Learning
 
-* [myHerb Onboarding Guide](learning/myherb-onboarding-guide.md)
+* [myHerb Onboarding Guide](welcome-to-myherb-bookspace/myherb-onboarding-guide.md)
 * [Sustainability Implementation Framework](learning/sustainability-implementation-framework.md)
 * [Introduction to Sustainability Session Objectives:](learning/introduction-to-sustainability-session-objectives.md)
-  * [Sustainability in Business: Strategies for Environmental and Social Impact](learning/introduction-to-sustainability-session-objectives/sustainability-in-business-strategies-for-environmental-and-social-impact.md)
-* [Transform Your Business with HubSpot and Impact.com PXA](learning/transform-your-business-with-hubspot-and-impact.com-pxa.md)
+* [Transform Your Business with HubSpot and Impact.com PXA](welcome-to-myherb-bookspace/transform-your-business-with-hubspot-and-impact.com-pxa.md)
+* [Sustainability in Business: Strategies for Environmental and Social Impact](learning/sustainability-in-business-strategies-for-environmental-and-social-impact.md)
 
 ## Collaborating
 
@@ -36,7 +36,7 @@
 * [MISSION & GOALS](mission-and-goals/README.md)
   * [Expose Manipulative Entities and Protect Your Rights](mission-and-goals/expose-manipulative-entities-and-protect-your-rights.md)
   * [Educational Resources on Recognizing and Dealing with Manipulation and Deceit](mission-and-goals/educational-resources-on-recognizing-and-dealing-with-manipulation-and-deceit.md)
-* [Call Meetings](call-meetings.md)
+* [Call Meetings](collaborating/meetings.md)
 
 ## Team
 

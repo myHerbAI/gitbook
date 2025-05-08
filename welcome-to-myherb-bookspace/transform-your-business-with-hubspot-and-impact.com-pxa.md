@@ -74,11 +74,7 @@ With free certifications and expert-led courses, [PXA](https://goto.impact.com/0
 
 Automate routine tasks and streamline your workflows, freeing time for strategic initiatives. [Impact.com](https://goto.impact.com/0ZeXaE)'s [PXA](https://goto.impact.com/0ZeXaE) provides the knowledge and certifications to excel in affiliate marketing.&#x20;
 
-<div data-full-width="true">
-
-<figure><img src="../.gitbook/assets/hq720.jpg" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div data-full-width="true"><figure><img src="../.gitbook/assets/hq720.jpg" alt=""><figcaption></figcaption></figure></div>
 
 ## Streamline Your Workflows with PXA and AI Technology
 
