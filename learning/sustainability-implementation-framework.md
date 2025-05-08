@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Designer (66).jpeg
+coverY: 0
+---
+
 # Sustainability Implementation Framework
 
 Here’s a more **detailed breakdown** of sustainability strategies, categorized into distinct segments:
