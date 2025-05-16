@@ -3,6 +3,7 @@
 ## Main Section <a href="#main" id="main"></a>
 
 * [Docs & Knowledge Base Vault](README.md)
+  * [myHerb's Data-Driven Sustainability Shift Guidance](main/bookspace/myherbs-data-driven-sustainability-shift-guidance.md)
   * [myAIHerb Chatbot Agent Instructions](bookspace/myaiherb-chatbot-agent-instructions.md)
   * [Comprehensive Guide to Data-Driven Sustainability for Businesses and Individuals](bookspace/comprehensive-guide-to-data-driven-sustainability-for-businesses-and-individuals.md)
 
