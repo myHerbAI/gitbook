@@ -58,7 +58,7 @@ Understanding and reducing your **carbon footprint** is key to combating climate
 * **Conscious Consumption**: Supporting eco-conscious brands and minimizing waste.\
   Would you like to include a detailed guide on how businesses can implement these strategies?
 
-### **Renewable Energy Adoption**
+### **Renewable Energy Adoption** <a href="#energy" id="energy"></a>
 
 Renewable energy helps reduce dependence on fossil fuels and lowers environmental impact. Explore:
 
