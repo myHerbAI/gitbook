@@ -1,5 +1,7 @@
 ---
 description: myHerb (by Aaron Levin)
+icon: comments
+cover: ../../.gitbook/assets/image (4).png
 coverY: 0
 ---
 
