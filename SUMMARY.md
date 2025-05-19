@@ -22,6 +22,7 @@
 
 ## Collaborating
 
+* [Jotform x myHerb: The Smart, Sustainable Way to Grow Your Business](collaborating/jotform-x-myherb-the-smart-sustainable-way-to-grow-your-business.md)
 * [How we Work Together](collaborating/how-we-work-together/README.md)
   * [Unleashing the Power of AI with myHerb’s Innovative Partners](collaborating/how-we-work-together/unleashing-the-power-of-ai-with-myherbs-innovative-partners.md)
   * [Tracking & Measuring Sustainability](collaborating/how-we-work-together/tracking-and-measuring-sustainability.md)
