@@ -2,6 +2,7 @@
 description: >-
   Grow Smarter, Not Harder: How Jotform and myHerb Are Cultivating a Greener
   Future for Your Business.
+icon: file-lines
 ---
 
 # Jotform x myHerb: The Smart, Sustainable Way to Grow Your Business
