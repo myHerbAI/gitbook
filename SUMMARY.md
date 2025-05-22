@@ -5,6 +5,7 @@
 * [Docs & Knowledge Base Vault](README.md)
   * [myHerb's Data-Driven Sustainability Shift Guidance](main/bookspace/myherbs-data-driven-sustainability-shift-guidance.md)
   * [myherb: A Guide to Sustainable Living and Business](main/bookspace/myherb-a-guide-to-sustainable-living-and-business.md)
+  * [myHerb Sustainability Practices](main/bookspace/myherb-sustainability-practices.md)
   * [myAIHerb Chatbot Agent Instructions](bookspace/myaiherb-chatbot-agent-instructions.md)
   * [A Comprehensive Guide to Data-Driven Sustainability for Businesses and Individuals](main/bookspace/a-comprehensive-guide-to-data-driven-sustainability-for-businesses-and-individuals.md)
 
