@@ -2,6 +2,7 @@
 description: >-
   Welcome to our complete introduction and guide on embracing a data-driven
   approach to sustainability.
+icon: grid-2-plus
 cover: ../../.gitbook/assets/Designer (66).jpeg
 coverY: 35
 ---
