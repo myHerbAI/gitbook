@@ -26,10 +26,10 @@
 * [How we Work Together](collaborating/how-we-work-together/README.md)
   * [Unleashing the Power of AI with myHerb’s Innovative Partners](collaborating/how-we-work-together/unleashing-the-power-of-ai-with-myherbs-innovative-partners.md)
   * [Tracking & Measuring Sustainability](collaborating/how-we-work-together/tracking-and-measuring-sustainability.md)
-* [Jotform x myHerb: The Smart, Sustainable Way to Grow Your Business](collaborating/jotform-x-myherb-the-smart-sustainable-way-to-grow-your-business.md)
-* [Report: Asana Developer Platform Analysis](collaborating/report-asana-developer-platform-analysis.md)
+* [Jotform + myHerb: The Smart, Sustainable Way to Grow Your Business](collaborating/jotform-+-myherb-the-smart-sustainable-way-to-grow-your-business.md)
 * [Elevating Sustainability as an Atlassian Marketplace Partner](collaborating/elevating-sustainability-as-an-atlassian-marketplace-partner.md)
 * [myHerb as a Vendor at JetBrains](collaborating/myherb-as-a-vendor-at-jetbrains.md)
+* [Report: Asana Developer Platform Analysis](collaborating/report-asana-developer-platform-analysis.md)
 * [Microsoft & Sustainability](collaborating/microsoft-and-sustainability/README.md)
   * [myHerb and Microsoft: A Partnership for a Sustainable Future](collaborating/microsoft-and-sustainability/myherb-and-microsoft-a-partnership-for-a-sustainable-future.md)
   * [Long-term goals of the collaboration between myHerb and Microsoft](collaborating/microsoft-and-sustainability/long-term-goals-of-the-collaboration-between-myherb-and-microsoft.md)
@@ -53,7 +53,7 @@
 
 ## About us
 
-* [Brand Voice of myHerb.co.il: A Comprehensive Exploration](about-us/brand-voice-of-myherb.co.il-a-comprehensive-exploration.md)
+* [Brand Voice of myHerb: A Comprehensive Exploration](about-us/brand-voice-of-myherb-a-comprehensive-exploration.md)
 * [🚀 Vision, Mission & Focus: On-Click One-Tree](about-us/vision-mission-and-focus-on-click-one-tree/README.md)
   * [myHerb initiative aims to guide businesses towards sustainability](about-us/vision-mission-and-focus-on-click-one-tree/myherb-initiative-aims-to-guide-businesses-towards-sustainability.md)
   * [Mission: Sustainability Guidance Services](about-us/vision-mission-and-focus-on-click-one-tree/mission-sustainability-guidance-services.md)
