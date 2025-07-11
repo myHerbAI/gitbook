@@ -5,20 +5,6 @@ description: >-
   build its own integration or application.
 cover: ../../.gitbook/assets/image (4).png
 coverY: 280.3755238893545
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 🚀 Vision, Mission & Focus: On-Click One-Tree

@@ -4,20 +4,6 @@ description: >-
   help others get updated with our news, guides and other resources.
 cover: ../.gitbook/assets/_5c742bf4-d653-4e13-ac66-735c070ecdb6.jfif
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # 👋 Welcome to myHerb BookSpace!

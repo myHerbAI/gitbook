@@ -26,6 +26,7 @@
 * [How we Work Together](collaborating/how-we-work-together/README.md)
   * [Unleashing the Power of AI with myHerb’s Innovative Partners](collaborating/how-we-work-together/unleashing-the-power-of-ai-with-myherbs-innovative-partners.md)
   * [Tracking & Measuring Sustainability](collaborating/how-we-work-together/tracking-and-measuring-sustainability.md)
+* [DocGPT.AI Official Documentation](collaborating/docgpt.ai-official-documentation.md)
 * [Jotform + myHerb: The Smart, Sustainable Way to Grow Your Business](collaborating/jotform-+-myherb-the-smart-sustainable-way-to-grow-your-business.md)
 * [Elevating Sustainability as an Atlassian Marketplace Partner](collaborating/elevating-sustainability-as-an-atlassian-marketplace-partner.md)
 * [myHerb as a Vendor at JetBrains](collaborating/myherb-as-a-vendor-at-jetbrains.md)
@@ -45,7 +46,7 @@
 
 ## Team
 
-* [👋 Meet the Team!](team/meet-the-team.md)
+* [👋 Meet the Man Behind The Scene!](team/meet-the-man-behind-the-scene.md)
 
 ## Policies
 

@@ -2,20 +2,6 @@
 icon: ballot-check
 cover: ../.gitbook/assets/Designer (66).jpeg
 coverY: 165.8565737051793
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Sustainability Implementation Framework
