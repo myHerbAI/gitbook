@@ -12,6 +12,7 @@
 
 ***
 
+* [myHerb: Deconstructing the Identity of a Next-Generation Tech Venture](myherb-deconstructing-the-identity-of-a-next-generation-tech-venture.md)
 * [👋 Welcome to myHerb BookSpace!](welcome-to-myherb-bookspace/README.md)
 
 ## Learning
