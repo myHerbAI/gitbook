@@ -23,6 +23,7 @@
 * [Introduction to Sustainability Session Objectives:](learning/introduction-to-sustainability-session-objectives.md)
 * [Transform Your Business with HubSpot and Impact.com PXA](welcome-to-myherb-bookspace/transform-your-business-with-hubspot-and-impact.com-pxa.md)
 * [Sustainability in Business: Strategies for Environmental and Social Impact](learning/sustainability-in-business-strategies-for-environmental-and-social-impact.md)
+* [myHerb Topic Trend Analysis](learning/myherb-topic-trend-analysis.md)
 
 ## Collaborating
 
