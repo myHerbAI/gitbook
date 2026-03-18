@@ -1,0 +1,12 @@
+- tag: integration
+  label: Integration
+  color: green
+- tag: tree
+  label: Tree
+  color: green
+- tag: workflow
+  label: Workflow
+  color: purple
+- tag: design
+  label: Design
+  color: blue

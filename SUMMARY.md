@@ -18,6 +18,7 @@
 ## Learning
 
 * [myHerb: AI Sustainable Solutions](learning/myherb-ai-sustainable-solutions.md)
+* [Integrated Review of the FigJam Boards](learning/integrated-review-of-the-figjam-boards.md)
 * [myHerb Onboarding Guide](welcome-to-myherb-bookspace/myherb-onboarding-guide.md)
 * [Sustainability Implementation Framework](learning/sustainability-implementation-framework.md)
 * [Introduction to Sustainability Session Objectives:](learning/introduction-to-sustainability-session-objectives.md)
