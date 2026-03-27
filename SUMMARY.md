@@ -2,7 +2,8 @@
 
 ## Main Section <a href="#main" id="main"></a>
 
-* [myHerb: Deconstructing the Identity of a Next-Generation Tech Venture](README.md)
+* [👋 Welcome to myHerb BookSpace!](README.md)
+* [myHerb: Deconstructing the Identity of a Next-Generation Tech Venture](<README (2).md>)
 * [Docs & Knowledge Base Vault](<README (1).md>)
   * [myHerb's Data-Driven Sustainability Shift Guidance](main/bookspace/myherbs-data-driven-sustainability-shift-guidance.md)
   * [myherb: A Guide to Sustainable Living and Business](main/bookspace/myherb-a-guide-to-sustainable-living-and-business.md)
@@ -13,7 +14,6 @@
 ***
 
 * [myHerb: Deconstructing the Identity of a Next-Generation Tech Venture](myherb-deconstructing-the-identity-of-a-next-generation-tech-venture.md)
-* [👋 Welcome to myHerb BookSpace!](welcome-to-myherb-bookspace/README.md)
 
 ## Learning
 

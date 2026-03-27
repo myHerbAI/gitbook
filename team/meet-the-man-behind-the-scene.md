@@ -18,7 +18,7 @@ The myHerb team is led by Aaron Levin, the Founder & CEO, who is based in Israel
 
 <figure><img src="../.gitbook/assets/Creator Community - social media template aaron levin v1.png" alt=""><figcaption><p>Aaron Levin (Founder &#x26; CEO at myHerb)</p></figcaption></figure>
 
-👋 Founder & CEO — 💌 [myHerb.contact@gmail.com](mailto:myherb.contact@gmail.com) [[welcome-to-myherb-bookspace](../welcome-to-myherb-bookspace/ "mention")](mailto:myherb.contact@gmail.com) — Israel South District.
+👋 Founder & CEO — 💌 [myHerb.contact@gmail.com](mailto:myherb.contact@gmail.com) [[..](../ "mention")](mailto:myherb.contact@gmail.com) — Israel South District.
 
 ### Bio:&#x20;
 

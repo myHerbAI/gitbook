@@ -6,6 +6,8 @@ description: >-
 icon: leaf
 cover: .gitbook/assets/Designer (133).jpeg
 coverY: 0
+tags:
+  - featured
 ---
 
 # Docs & Knowledge Base Vault

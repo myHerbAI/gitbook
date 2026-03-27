@@ -10,3 +10,11 @@
 - tag: design
   label: Design
   color: blue
+- tag: featured
+  label: Featured
+  icon: arrow-up-right-dots
+  color: $success
+- tag: guides
+  label: Guides
+  icon: microphone
+  color: $primary

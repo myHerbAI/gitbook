@@ -5,6 +5,9 @@ description: >-
 icon: circle-chevron-right
 cover: ../.gitbook/assets/Designer (68).jpeg
 coverY: 0
+tags:
+  - guides
+  - integration
 ---
 
 # myHerb Onboarding Guide

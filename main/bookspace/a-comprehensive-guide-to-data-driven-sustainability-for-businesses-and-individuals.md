@@ -371,4 +371,4 @@ By leveraging actual data from various sources, businesses and individuals can i
 
 Explore our resources and tools to begin your journey towards data-driven sustainability. Whether you're a business looking to implement sustainable practices or an individual seeking to reduce your environmental impact, myHerb is here to support you every step.
 
-By following this guide, you'll understand how data can drive sustainable change and how myHerb's innovative approach can help you achieve your sustainability goals.\
+By following this guide, you'll understand how data can drive sustainable change and how myHerb's innovative approach can help you achieve your sustainability goals.<br>

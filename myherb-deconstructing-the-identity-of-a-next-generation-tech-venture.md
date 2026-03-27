@@ -4,6 +4,8 @@ description: >-
   consequence of its unfunded, bootstrapped operational ethos.
 cover: .gitbook/assets/Gemini_Generated_Image_cgawgocgawgocgaw.jfif
 coverY: 0
+tags:
+  - featured
 ---
 
 # myHerb: Deconstructing the Identity of a Next-Generation Tech Venture
