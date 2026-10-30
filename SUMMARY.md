@@ -1,5 +1,24 @@
 # Table of contents
 
+## Start here
+
+* [Start here](start-here/README.md)
+* [How to use this library](start-here/how-to-use-this-library.md)
+* [Content status and provenance](start-here/content-status-and-provenance.md)
+
+## Knowledge base
+
+* [Knowledge base](knowledge-base/README.md)
+* [Learning paths](knowledge-base/learning-paths.md)
+* [Tools & solutions directory](knowledge-base/tools-and-solutions.md)
+
+## Digital products
+
+* [Digital products](digital-products/README.md)
+* [Product readiness](digital-products/product-readiness.md)
+
+***
+
 ## Main Section <a href="#main" id="main"></a>
 
 * [👋 Welcome to myHerb BookSpace!](README.md)
